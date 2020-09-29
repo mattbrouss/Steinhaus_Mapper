@@ -58,4 +58,4 @@ We get output such as the following:
 ![](path29.png)
 
 
-Each image represents a path, with sample sneaker, sandal, and ankle boot from each node. As we progress along the path, we can see gradual change in the general construction of shoe.
+Each image represents a path, with sample sneaker, sandal, and ankle boot (along with sundry others) from each node. As we progress along the path, we can see gradual change in the general construction of shoe.
